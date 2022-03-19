@@ -1,0 +1,13 @@
+body{
+	background-color: #0d91fc;
+}
+@media(max-width: 640px){
+	body{
+		background-color: #0dfc39;
+	}
+}
+@media(min-width: 1280px){
+	body{
+		background-color: #fce80d;
+	}	
+}
